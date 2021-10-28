@@ -1,0 +1,10 @@
+npm i express express-handlebars morgan multer mongoose cloudinary dotenv cross-env
+
+obtener fecha actual en milisegundos
+
+new Date()  //fecha actual
+new Date().getTime()
+
+dotenv me permite leer los archvos .env
+
+cross-env nos permite definir nuestro entorno de desarrollo en multiples plataformas
