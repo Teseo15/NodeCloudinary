@@ -8,3 +8,5 @@ new Date().getTime()
 dotenv me permite leer los archvos .env
 
 cross-env nos permite definir nuestro entorno de desarrollo en multiples plataformas
+
+usar biblioteca swiper
